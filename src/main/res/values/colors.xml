@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#0099FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#CACACA</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="editor">#1e1f20</color>
+
+    <color name="shimmer">#BFBFBF</color>
+
+    <color name="dsuh">#757575</color>
+    <color name="option_selection">#C7E7ED</color>
+
+    <color name="pink">#fe485a</color>
+    <color name="lightPink">#ef818c</color>
+    <color name="gray">#7C7C7C</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="blue_color_picker">#0066FF</color>
+    <color name="brown_color_picker">#AF593E</color>
+    <color name="green_color_picker">#01A368</color>
+    <color name="orange_color_picker">#FF861F</color>
+    <color name="red_color_picker">#ED0A3F</color>
+    <color name="red_orange_color_picker">#FF3F34</color>
+    <color name="sky_blue_color_picker">#76D7EA</color>
+    <color name="violet_color_picker">#8359A3</color>
+    <color name="yellow_color_picker">#FBE870</color>
+    <color name="yellow_em">#E8D211</color>
+    <color name="yellow_green_color_picker">#C5E17A</color>
+    <color name="tool_bg">#151414</color>
+    <color name="semi_black_transparent">#99000000</color>
+
+
+    <color name="green">#22E600</color>
+    <color name="red">#FF0000</color>
+    <color name="transparent_grey">#77000000</color>
+    <color name="colorTextIcon">#FFFFFF</color>
+
+    <color name="primaryIcon">#32ADFF</color>
+
+    <color name="selected">#ECECEC</color>
+
+    <color name="text_background_normal">#BABABA</color>
+
+    <color name="color_primary">#0099FF</color>
+
+    <color name="colorPrimarydark">#035B97</color>
+
+    <color name="colorPrimaryText">#212121</color>
+
+    <color name="colorSecondaryText">#757575</color>
+
+    <color name="colorDivider">#BDBDBD</color>
+
+    <color name="colorBackground">#FAFAFA</color>
+
+    <color name="colorHintText">#BDBDBD</color>
+
+    <color name="colorMeetingInvitationStart">#4004BB</color>
+
+    <color name="colorMeetingInvitationEnd">#8A1AAA</color>
+    <color name="indicator_def">#0099ff</color>
+    <color name="indicator">#0099FF</color>
+
+    <color name="progress_primary">@color/white</color>
+    <color name="progress_secondary">@color/gray_scale</color>
+    <color name="progress_max_active">@color/white</color>
+
+    <color name="gray_scale">#8affffff</color>
+
+</resources>
